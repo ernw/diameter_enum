@@ -1,0 +1,23 @@
+# 3GPP
+29109-720
+29140-630
+29172-a30
+29173-a40
+29229-e10
+29272-e30
+29329-e20
+29336-e10
+29368-e10
+
+# RFC
+RFC 3589 - Provisional Diameter Command Codes for 3GPP Release 5
+RFC 4004 - Diameter Mobile IPv4 Application
+RFC 4006 - Diameter Credit-Control Application
+RFC 4072 - Diameter Extensible Authentication Protocol (EAP) Application
+RFC 4740 - Diameter Session Initiation Protocol (SIP) Application
+RFC 5516 - Diameter Command Code Registration for the Third Generation Partnership Project (3GPP) Evolved Packet System (EPS)
+RFC 6733 - Diameter Base Protocol
+RFC 7155 - Diameter Network Access Server Application
+
+# ETSI
+ts_129338v140100p
